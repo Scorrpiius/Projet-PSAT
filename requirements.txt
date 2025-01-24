@@ -1,0 +1,6 @@
+ollama
+gtts
+easyocr
+pillow
+datetime
+beautifulsoup4
